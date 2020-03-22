@@ -5,9 +5,17 @@ In this project, I was tasked with creaitng a Python script to visualize the wea
 I built plots to showcase the following relationships:
 * Temperature (F) vs. Latitude
 
+![Image](https://github.com/iraismgarcia5/PythonAPI_WeatherAnalysis/blob/master/Latitude_vs_Temperature.png)
+
 * Humidity (%) vs. Latitude
+
+![Image](https://github.com/iraismgarcia5/PythonAPI_WeatherAnalysis/blob/master/Latitude_vs_Humidity.png)
+
 * Cloudiness (%) vs. Latitude
 
 ![Image](https://github.com/iraismgarcia5/PythonAPI_WeatherAnalysis/blob/master/Latitude_vs_Cloudiness.png)
 
 * Wind Speed (mph) vs. Latitude
+
+![Image](https://github.com/iraismgarcia5/PythonAPI_WeatherAnalysis/blob/master/Latitude_vs_WindSpeed.png)
+
