@@ -21,7 +21,7 @@ I built plots to showcase the following relationships:
 
 Finally, I was tasked with drawing conclusions from the plots.
 
-*Observations:
+*Observations:*
 
 * From the Latitude vs. Temperature plot, we can see that the maximum temperature gets hotter as the latitude approaches 0
 * It seems, from the Latitude vs. Humidity plot, that humidity is lower when latitudes are at around the midpoint between latitude 0 and the minimum and maximum latitude
