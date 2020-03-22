@@ -4,6 +4,9 @@ In this project, I was tasked with creaitng a Python script to visualize the wea
 
 I built plots to showcase the following relationships:
 * Temperature (F) vs. Latitude
+
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
+!(https://github.com/iraismgarcia5/PythonAPI_WeatherAnalysis/blob/master/Latitude_vs_Cloudiness.png)
+
 * Wind Speed (mph) vs. Latitude
