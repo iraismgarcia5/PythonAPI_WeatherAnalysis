@@ -7,6 +7,7 @@ I built plots to showcase the following relationships:
 
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
-! (https://github.com/iraismgarcia5/PythonAPI_WeatherAnalysis/blob/master/Latitude_vs_Cloudiness.png)
+
+![Image](https://github.com/iraismgarcia5/PythonAPI_WeatherAnalysis/blob/master/Latitude_vs_Cloudiness.png)
 
 * Wind Speed (mph) vs. Latitude
